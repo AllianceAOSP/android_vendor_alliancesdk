@@ -18,7 +18,7 @@ LOCAL_PATH := $(call my-dir)
 # =====================================================================
 include $(CLEAR_VARS)
 
-alliance_src := src/java/alliance_src
+alliance_src := src/java/alliance-rom
 
 LOCAL_MODULE := com.alliance-rom.platform
 LOCAL_MODULE_TAGS := optional
